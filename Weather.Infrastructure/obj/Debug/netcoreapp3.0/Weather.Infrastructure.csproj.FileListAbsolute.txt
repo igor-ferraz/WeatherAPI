@@ -1,0 +1,11 @@
+C:\Projetos\Weather\Weather.Infrastructure\bin\Debug\netcoreapp3.0\Weather.Infrastructure.deps.json
+C:\Projetos\Weather\Weather.Infrastructure\bin\Debug\netcoreapp3.0\Weather.Infrastructure.dll
+C:\Projetos\Weather\Weather.Infrastructure\bin\Debug\netcoreapp3.0\Weather.Infrastructure.pdb
+C:\Projetos\Weather\Weather.Infrastructure\bin\Debug\netcoreapp3.0\Weather.Domain.dll
+C:\Projetos\Weather\Weather.Infrastructure\bin\Debug\netcoreapp3.0\Weather.Domain.pdb
+C:\Projetos\Weather\Weather.Infrastructure\obj\Debug\netcoreapp3.0\Weather.Infrastructure.csprojAssemblyReference.cache
+C:\Projetos\Weather\Weather.Infrastructure\obj\Debug\netcoreapp3.0\Weather.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\Weather\Weather.Infrastructure\obj\Debug\netcoreapp3.0\Weather.Infrastructure.AssemblyInfo.cs
+C:\Projetos\Weather\Weather.Infrastructure\obj\Debug\netcoreapp3.0\Weather.Infrastructure.csproj.CopyComplete
+C:\Projetos\Weather\Weather.Infrastructure\obj\Debug\netcoreapp3.0\Weather.Infrastructure.dll
+C:\Projetos\Weather\Weather.Infrastructure\obj\Debug\netcoreapp3.0\Weather.Infrastructure.pdb

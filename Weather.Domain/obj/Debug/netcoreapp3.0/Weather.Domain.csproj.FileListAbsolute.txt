@@ -1,0 +1,8 @@
+C:\Projetos\Weather\Weather.Domain\bin\Debug\netcoreapp3.0\Weather.Domain.deps.json
+C:\Projetos\Weather\Weather.Domain\bin\Debug\netcoreapp3.0\Weather.Domain.dll
+C:\Projetos\Weather\Weather.Domain\bin\Debug\netcoreapp3.0\Weather.Domain.pdb
+C:\Projetos\Weather\Weather.Domain\obj\Debug\netcoreapp3.0\Weather.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Weather\Weather.Domain\obj\Debug\netcoreapp3.0\Weather.Domain.AssemblyInfo.cs
+C:\Projetos\Weather\Weather.Domain\obj\Debug\netcoreapp3.0\Weather.Domain.dll
+C:\Projetos\Weather\Weather.Domain\obj\Debug\netcoreapp3.0\Weather.Domain.pdb
+C:\Projetos\Weather\Weather.Domain\obj\Debug\netcoreapp3.0\Weather.Domain.csprojAssemblyReference.cache
