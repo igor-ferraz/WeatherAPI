@@ -1,6 +1,7 @@
 # :cloud: WeatherAPI
 It's an Web API (using ASP.NET Core) that tracks temperatures of registered cities. <br>
-I built this application to demonstrate how to use Domain-Driven Design architecture with a practical approach.
+I built this application to demonstrate how to use Domain-Driven Design architecture with a practical approach. <br>
+The Swagger package is used to make the API visualization easier as well as provide an optional way to test it without another software.
 
 ## :office: Architecture
 This project is using the __Repository__ concept as the only way to manipulate the database.<br>
