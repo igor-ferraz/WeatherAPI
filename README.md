@@ -1,17 +1,17 @@
 # :cloud: WeatherAPI
 It's an Web API (using ASP.NET Core) that tracks temperatures of registered cities. <br>
 I built this application to demonstrate how to use Domain-Driven Design architecture with a practical approach. <br>
-The Swagger package is used to make the API visualization easier as well as provide an optional way to test it without another software.
+Swagger package is used to make the API visualization easier, as well as provide an optional way to test it by itself.
 
 ## :office: Architecture
-This project is using the __Repository__ concept as the only way to manipulate the database.<br>
-Assuming that you already know what is DDD and what each layer have to do, there is a short description for each project:
+It's important to say that __Repository__ concept is being used to manipulate the database.<br>
+Assuming that you already know what DDD is and what each layer have to do, there is a short description for each project:
 
 - __Weather.Infrastructure__: here you can find the Repositories and the service to handle HTTP requests.<br>
 - __Weather.API__: this project manage the dependency injection and contains our endpoints (controllers).<br>
 - __Weather.Application__: all the business logic is here, inside our three services.<br>
 - __Weather.Domain__: an usual domain, including models, data contracts and interfaces (for services and repositories).<br>
-- __Weather.Common__: this project only exists to share the RemoveDiacritics string extension to the others projects.
+- __Weather.Common__: this project only exists to share the RemoveDiacritics string extension with others projects.
 
 #### If you don't know much about DDD, here is a super simplified explanation (for this project):
 
